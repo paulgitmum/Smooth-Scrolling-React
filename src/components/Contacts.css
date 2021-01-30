@@ -1,0 +1,16 @@
+
+.contacts-content {
+    width:68%;
+    margin:auto;
+    height: 80vh;
+    background-color: rgb(185, 189, 177);
+}
+.heading {
+    padding-top: 50px;
+    letter-spacing: 0.3rem;
+    font-size: 30px;
+}
+p{
+   text-align: left;
+    margin:30px;
+}
